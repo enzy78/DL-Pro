@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-02-20",
+  "download_url": "https://github.com/username/repository/releases/download/v1.0.1/DLPro.exe",
+  "changelog": [
+    "Initial in-app updater support",
+    "Instagram download stability improvements",
+    "Windows filename and caption handling fixes"
+  ]
+}
